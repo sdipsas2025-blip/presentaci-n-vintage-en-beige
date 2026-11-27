@@ -1,14 +1,16 @@
-# Welcome to your Lovable project
+# Presentación Vintage en Beige
+
+TENIENDO EN CUENTA ESTO DAME UNA PRESENTACIÓN DE TOD ESTO PORFAVOR QUE TENGA ILUSTRACIONES PERO QUE NO SE VEAN LLAMATIVO QUE SEA CLASICO TIPO VINTAGES Y  CAFE Y BEIGE
 
 This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/684860bf-9545-4e60-926f-25952b7c71d5).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +22,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS

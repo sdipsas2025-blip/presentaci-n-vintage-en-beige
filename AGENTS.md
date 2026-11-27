@@ -28,3 +28,7 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+## Project rules
+- The app is a slide deck: slides live in `src/components/deck/slides.tsx` (registry), rendered at 1920x1080 via `ScaledSlide`; `/print` renders all slides for PDF export. Why: one source for viewer, grid and print.
+- Slide typography uses the `.slide-*` classes and vintage tokens (paper, espresso, caramel) in `src/styles.css`. Why: keeps the classic coffee/beige look consistent.
